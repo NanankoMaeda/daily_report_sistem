@@ -5,7 +5,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-    <title><c:out value="日報　システム" /></title>
+    <title><c:out value="日報システム" /></title>
     <link rel="stylesheet" href="<c:url value='/css/reset.css' />">
     <link rel="stylesheet" href="<c:url value='/css/style.css' />">
 </head>
@@ -13,7 +13,7 @@
     <div id="wrapper">
         <div id="header">
             <div id="header_menu">
-                <h1>日報　システム</h1>
+                <h1>日報システム</h1>
             </div>
         </div>
         <div id="content">${param.content}</div>
